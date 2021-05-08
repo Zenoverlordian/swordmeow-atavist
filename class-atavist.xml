@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+    
+    <element name="Atavist" type="Class" source="SwordMeow Atavist" id="ID_SWORDMEOW_CLASS_ATAVIST">
+        <description>
+    <p>An armored frontlining human takes blow after blow, and when she begins to weaken, she becomes all the more savage - hitting harder, striking faster, dying slower. A wounded dog is lethal, but a wounded atavist is a bloody nightmare. With caution halfway around the world, she wounds her own arm, but the enemy falls to the ground as he takes all the pain. Another foe comes near, but finding her only stronger than she was previous.</p>
+    <p class="indent">An orc throws more than his all into each blow, hurting himself in a magical effort to strengthen his blows, but knows it’s not enough. He stills and lets the alien forces take over his mind, as his body erupts aberrant flesh strips, covering him entirely, growing out of holes and hairs - eyes darkening and true horror creeping. If his mark doesn’t falter at the mere sight of the abomination, he will soon fall in battle.</p>
+    <p class="indent">The fireball rounds the corners of the maze, the wizard’s foul fire chasing his would be killer down the hall, but a sacrificial slight crippling of his arm gives him the power he needs to dodge out of the fiery current.</p>
+    <p class="indent">No matter their upbringing, race, culture, or even time period, atavists are united by their ability to make use of their own vitality in their weaponplay. There may have been bloodlines at one point, but those are gone now.</p>
+    <h4>OLD, VENGEFUL, AND SCATTERED</h4>
+    <p>Before iron, before the blade, before organized cities, there were the atavists - using the only tools they had available: their bodies and their magic. In tandem, they use these dual aspects to protect, to conquer, to hunt monsters, or to achieve any other ends.</p>
+    <p class="indent">These people build on failure. They take their combat training of reflexive attacks when they’re hurt and apply it to their lives: those that wrong atavists should know they will be struck back ten times harder. Some atavists even enjoy being attacked, hurt or betrayed, and use it as an excuse to hit back.</p>
+    <p class="indent">Atavists can come from anywhere in the world: tribes, kingdoms, royalty, or gutter poor; however, those peoples that trend towards using hemomancy and other necrotic, vitality-affected powers would seem to have a higher chance of a child with atavistic powers.</p>
+    <h4>THE ORIGIN OF HEMOMANCY</h4>
+    <p>Magic that drains and takes from you is a studied and developed field that comes from atavists first. They started blood magic. But, what started the atavists? How did atavists begin in your setting—or is a piece of history lost long ago? Is it even important? Has it began multiple times, or can be it be restarted or instilled into potential users a variety of ways? Or, is every atavist in the same family tree, leading farther and farther back; it might lead to creatures beyond humanoids, perhaps from some union of opposite beings; or from a creature who has long left this universe.</p>
+    <p class="indent">The power to use one’s own body in a general sense has been around for eons. Atavism is tied and twisted around that idea. To those born with the talent, it’s no more difficult than training an instrument for others - the inclination was born into them. However, many atavists were not simply born with it - through the prowess of a strong blood warrior, a child can be formed and shaped physically, giving him or her a much higher chance of developing atavistic powers. It’s up to you to decide how you obtained this talent.</p>
+    <h4>POWERS WITHOUT DIRECTION</h4>
+    <p>Many classes in Dungeons and Dragons have a clear indication and will for what a member would be doing - wizards study magic, paladins take up the cause of righteousness, and clerics serve their gods. But, many atavists have no such direction. If your character was ingrained with these powers through a blood rite, the question is, why?</p>
+    <p class="indent">The same question exists for those who were born with the abilities. Are you part of some tangential, many-webbed plan of a deity or another powerful being, or was it just chance?</p>
+    <p class="indent">If you don’t know the answers - like many of those in the world do not know the purpose of their lives - you decide it. Maybe you don’t care, and you focus on what you want and how you can get it in the future, instead of dwelling on the past.</p>
+    <h4>INFAMOUS HEROES, OFT VILLAINS</h4>
+    <p>The magic used (or abused) by atavists is normally questionable at best in most cultures, and when under close examination, can often be found to be a type that is commonly disowned, unsupported, and generally looked down on. This creates prejudice against atavists. They are more often cast as villains in stories, and tend not to be heroes; at least, in most of the world. It’s harder for an atavist to be admired and easier to villainize.</p>
+    <p class="indent">If you have hidden your powers, or put them to an unusual cause, what effect has that had on how confident your character is? Would ‘I was born like this’ as a defense have held up wherever you came from?</p>
+    <h4>CREATING AN ATAVIST</h4>
+    <p>The most important question to consider when creating your atavist is the effect that their powers have had on them - and how those effects and powers were treated by those around you. Did you lose sets of friends due to fearful ignorance? Did your family embrace and accept you for who you are, or did they turn a blind eye to your powers and hope they - or maybe you - would disappear?</p>
+    <p class="indent">Atavists are known for their rigid health, physicality, and aptitude for circumstantially evil magics. Certain sages and other scholars would love to study you, or those with the same motives and less morals may pose a danger to you; maybe they already have. Do you wish you could hide or remove your power? Or do you want to defeat the stereotype you’re applied and become a hero?</p>
+    <p class="indent">After your journey begins as an atavist, it might happen upon a new road. Are you a brutal warrior who wants to be attacked - a jaded, wearied soldier who will never fall? Are you a hopeful and strong warrior that has fallen to afflictions of the mind; the inluence of strange beings, that are a cursed blessing? Or are you a ruthless killer, lethal and weaponized, who will not stop to get what they want? Maybe you pledge yourself to or are pledged by a powerful fiend, who is respectful of your blood magic, and extends a fiery hand of power for you to grasp. You might even divine more power from meditation and self-reflection, with the idea that the more time you spend with yourself, the more able you are.</p>
+    <h5 class="caption">QUICK BUILD</h5>
+    <p>You can make an atavist quickly by following these suggestions. First, Constitution should be your highest ability score, followed by Strength or Dexterity (depending on what kind of martial character you want). Second, choose the Soldier background.</p>
+    <h2>CLASS FEATURES</h2>
+    <p>As an atavist, you gain the following class features.</p>
+    <h5 class="caption">HIT POINTS</h5>
+    <ul class="unstyled">
+        <li><strong>Hit Dice:</strong> 1d6 per atavist level</li>
+        <li><strong>Hit Points at 1st Level:</strong> 6 + your Constitution modifier</li>
+        <li><strong>Hit Points at Higher Levels:</strong> 1d6 (or 4) + your Constitution modifier per atavist level after 1st</li>
+    </ul>
+    <h5 class="caption">PROFICIENCIES</h5>
+    <ul class="unstyled mb">
+        <li><strong>Armor:</strong> Light armor, medium armor, shields</li>
+        <li><strong>Weapons:</strong> Simple weapons, martial weapons</li>
+        <li><strong>Tools:</strong> None</li>
+    </ul>
+    <ul class="unstyled">
+        <li><strong>Saving Throws:</strong> Strength, Constitution</li>
+        <li><strong>Skills:</strong> Choose two from Acrobatics, Arcana, Athletics, Insight, Intimidation, Investigation, Survival</li>
+    </ul>
+    <h5 class="caption">EQUIPMENT</h5>
+    <p>You start with the following equipment, in addition to the equipment granted by your background:</p>
+    <ul>
+        <li>(a) scale mail or (b) leather armor</li>
+        <li>(a) two spears or (b) any martial weapon</li>
+        <li>(a) a greataxe or (b) a battleaxe and a shield</li>
+        <li>(a) an explorer’s pack or (b) a priest’s pack</li>
+    </ul>
+        <h5 class="caption">THE </h5>
+        <table class="class-features">
+            <thead>
+                <tr><td class="col-5">Level</td><td class="left">Features</td><td>1st</td><td>2nd</td><td>3rd</td><td>4th</td><td>5th</td></tr>
+            </thead>
+            <tr><td> 1st</td><td class="left">Rend Ichor, Unstopping Heart</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+            <tr><td> 2nd</td><td class="left">Spellcasting, Hardened Viscera</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+            <tr><td> 3rd</td><td class="left">Atavistic Aspect</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+            <tr><td> 4th</td><td class="left">Ability Score Improvement</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+            <tr><td> 5th</td><td class="left">Avenging Attack</td><td>4</td><td>2</td><td>—</td><td>—</td><td>—</td></tr>
+            <tr><td> 6th</td><td class="left">Atavistic Aspect feature, Humansbane (HP 10)</td><td>4</td><td>2</td><td>—</td><td>—</td><td>—</td></tr>
+            <tr><td> 7th</td><td class="left">Greater Viscera, Rend Dice (2d6)</td><td>4</td><td>3</td><td>—</td><td>—</td><td>—</td></tr>
+            <tr><td> 8th</td><td class="left">Ability Score Improvement</td><td>4</td><td>3</td><td>—</td><td>—</td><td>—</td></tr>
+            <tr><td> 9th</td><td class="left">—</td><td>4</td><td>3</td><td>2</td><td>—</td><td>—</td></tr>
+            <tr><td>10th</td><td class="left">Atavistic Aspect feature, Humansbane (HP 15)</td><td>4</td><td>3</td><td>2</td><td>—</td><td>—</td></tr>
+            <tr><td>11th</td><td class="left">Avenging Attack Improvement</td><td>4</td><td>3</td><td>3</td><td>—</td><td>—</td></tr>
+            <tr><td>12th</td><td class="left">Ability Score Improvement</td><td>4</td><td>3</td><td>3</td><td>—</td><td>—</td></tr>
+            <tr><td>13th</td><td class="left">—</td><td>4</td><td>3</td><td>3</td><td>1</td><td>—</td></tr>
+            <tr><td>14th</td><td class="left">Sanguine Sacrament (5th level), Humansbane (HP 20), Rend Dice (3d6)</td><td>4</td><td>3</td><td>3</td><td>1</td><td>—</td></tr>
+            <tr><td>15th</td><td class="left">Greater Viscera Improvement</td><td>4</td><td>3</td><td>3</td><td>2</td><td>—</td></tr>
+            <tr><td>16th</td><td class="left">Ability Score Improvement</td><td>4</td><td>3</td><td>3</td><td>2</td><td>—</td></tr>
+            <tr><td>17th</td><td class="left">Sanguine Sacrament (6th level)</td><td>4</td><td>3</td><td>3</td><td>3</td><td>1</td></tr>
+            <tr><td>18th</td><td class="left">Atavistic Aspect feature, Humansbane (HP 25)</td><td>4</td><td>3</td><td>3</td><td>3</td><td>1</td></tr>
+            <tr><td>19th</td><td class="left">Ability Score Improvement</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td></tr>
+            <tr><td>20th</td><td class="left">Nigh Immortality, Sanguine Sacrament (7th level), Rend Dice (4d6)</td><td>4</td><td>3</td><td>3</td><td>3</td><td>2</td></tr>
+        </table>
+            <div element="ID_SWORDMEOW_CLASS_FEATURE_ATAVIST_REND_ICHOR" />
+            <div element="ID_SWORDMEOW_CLASS_FEATURE_ATAVIST_UNSTOPPING_HEART" />
+            <div element="ID_SWORDMEOW_CLASS_FEATURE_ATAVIST_SPELLCASTING" />
+            <div element="ID_SWORDMEOW_CLASS_FEATURE_ATAVIST_HARDENED_VISCERA" />
+            <div element="ID_SWORDMEOW_CLASS_FEATURE_ATAVIST_ATAVISTIC_ASPECT" />
+            <div element="ID_SWORDMEOW_CLASS_FEATURE_ATAVIST_ASI" />
+            <div element="ID_SWORDMEOW_CLASS_FEATURE_ATAVIST_AVENGING_ATTACK" />
+            <div element="ID_SWORDMEOW_CLASS_FEATURE_ATAVIST_HUMANSBANE" />
+            <div element="ID_SWORDMEOW_CLASS_FEATURE_ATAVIST_GREATER_VISCERA" />
+            <div element="ID_SWORDMEOW_CLASS_FEATURE_ATAVIST_SANGUINE_SACREMENTS" />
+            <div element="ID_SWORDMEOW_CLASS_FEATURE_ATAVIST_NIGH_IMMORTALITY" />
+        </description>
+        <setters>
+            <set name="short">A warrior using the power of blood.</set>
+            <set name="hd">d6</set>
+        </setters>
+        <sheet display="false" />
+        <rules>
+            <grant type="Proficiency" id="ID_PROFICIENCY_SAVINGTHROW_STRENGTH" requirements="!ID_SWORDMEOW_MULTICLASS_ATAVIST" />
+            <grant type="Proficiency" id="ID_PROFICIENCY_SAVINGTHROW_CONSTITUTION" requirements="!ID_SWORDMEOW_MULTICLASS_ATAVIST" />
+            <select type="Proficiency" name="Skill Proficiency (Atavist)" supports="ID_PROFICIENCY_SKILL_ACROBATICS|ID_PROFICIENCY_SKILL_ARCANA|ID_PROFICIENCY_SKILL_ATHLETICS|ID_PROFICIENCY_SKILL_INSIGHT|ID_PROFICIENCY_SKILL_INTIMIDATION|ID_PROFICIENCY_SKILL_INVESTIGATION|ID_PROFICIENCY_SKILL_SURVIVAL" number="2" requirements="!ID_SWORDMEOW_MULTICLASS_ATAVIST" />
+            <grant type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_LIGHT_ARMOR" />
+            <grant type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_MEDIUM_ARMOR" />
+            <grant type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_SHIELDS" />
+            <grant type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_SIMPLE_WEAPONS" />
+            <grant type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_MARTIAL_WEAPONS" />
+            <grant type="Class Feature" id="ID_SWORDMEOW_CLASS_FEATURE_ATAVIST_VARIANT_DICE" level="1" />
+            <grant type="Class Feature" id="ID_SWORDMEOW_CLASS_FEATURE_ATAVIST_REND_ICHOR" level="1" />
+            <grant type="Class Feature" id="ID_SWORDMEOW_CLASS_FEATURE_ATAVIST_UNSTOPPING_HEART" level="1" />
+            <grant type="Class Feature" id="ID_SWORDMEOW_CLASS_FEATURE_ATAVIST_SPELLCASTING" level="2" />
+            <grant type="Class Feature" id="ID_SWORDMEOW_CLASS_FEATURE_ATAVIST_HARDENED_VISCERA" level="2" />
+            <grant type="Class Feature" id="ID_SWORDMEOW_CLASS_FEATURE_ATAVIST_ATAVISTIC_ASPECT" level="3" />
+            <grant type="Class Feature" id="ID_SWORDMEOW_CLASS_FEATURE_ATAVIST_ASI" level="4" />
+            <grant type="Class Feature" id="ID_SWORDMEOW_CLASS_FEATURE_ATAVIST_AVENGING_ATTACK" level="5" />
+            <grant type="Class Feature" id="ID_SWORDMEOW_CLASS_FEATURE_ATAVIST_HUMANSBANE" level="6" />
+            <grant type="Class Feature" id="ID_SWORDMEOW_CLASS_FEATURE_ATAVIST_GREATER_VISCERA" level="7" />
+            <grant type="Class Feature" id="ID_SWORDMEOW_CLASS_FEATURE_ATAVIST_SANGUINE_SACREMENTS" level="14" />
+            <grant type="Class Feature" id="ID_SWORDMEOW_CLASS_FEATURE_ATAVIST_NIGH_IMMORTALITY" level="20" />
+        </rules>
+        <multiclass id="ID_SWORDMEOW_MULTICLASS_ATAVIST">
+            <prerequisite>Strength 13 and Constitution 13</prerequisite>
+            <requirements>[str:13],[con:13]</requirements>
+            <setters>
+                <set name="multiclass proficiencies">light armor, medium armor, shields, simple weapons, and martial weapons.</set>
+            </setters>
+            <rules>
+                <grant type="Grants" id="ID_INTERNAL_GRANT_MULTICLASS" />
+            </rules>
+        </multiclass>
+    </element>
+    
+    <element name="Atavist Variants" type="Class Feature" source="SwordMeow Atavist" id="ID_SWORDMEOW_CLASS_FEATURE_ATAVIST_VARIANT_DICE">
+        <description>
+            <p>While the standard atavist uses a d6 hit die, there are a couple variants that stem from the standard version: the painless variant and the painful variant, which make it easier or harder to play. With your DM’s permission (or ruling), use one of the variants below.</p>
+            <p class="indent"><strong><em>Painless.</em></strong> You have a d8 for your hit dice (8 + CON mod hitpoints at 1st), instead of a d6. Your rend dice begin as a d4 and progress to 2d4, 3d4, and 4d4.</p>
+            <p class="indent"><strong><em>Painful.</em></strong> You have a d4 for your hit dice (4 + CON mod hitpoints at 1st), instead of a d6. Your rend dice begin as a d4 and progress to 2d8, 3d8, and 4d8.</p>
+        </description>
+        <sheet display="false" />
+        <rules>
+            <select type="Class Feature" name="Atavist Variant" supports="Atavist Variant" />
+        </rules>
+    </element>
+    <element name="Painless" type="Class Feature" source="SwordMeow Atavist" id="ID_SWORDMEOW_CLASS_FEATURE_ATAVIST_VARIANT_DICE_PAINLESS">
+        <supports>Atavist Variant</supports>
+        <description>
+            <p>You have a d8 for your hit dice (8 + CON mod hitpoints at 1st), instead of a d6. Your rend dice begin as a d4 and progress to 2d4, 3d4, and 4d4.</p>
+        </description>
+        <sheet>
+            <description>You have a d8 for your hit dice instead of a d6.</description>
+        </sheet>
+        <rules>            
+            <stat name="hp" value="1" />
+            <stat name="hp" value="level" />
+            <stat name="rend die:size" value="4" />
+        </rules>
+    </element>
+    <element name="Standard" type="Class Feature" source="SwordMeow Atavist" id="ID_SWORDMEOW_CLASS_FEATURE_ATAVIST_VARIANT_DICE_Standard">
+        <supports>Atavist Variant</supports>
+        <description>
+            <p>You have a d6 for your hit dice (6 + CON mod hitpoints at 1st). Your rend dice begin as a d6 and progress to 2d6, 3d6, and 4d6.</p>
+        </description>
+        <sheet>
+            <description>You have a d6 for your hit dice</description>
+        </sheet>
+        <rules>
+            <stat name="rend die:size" value="6" />
+        </rules>
+    </element>
+    <element name="Painful" type="Class Feature" source="SwordMeow Atavist" id="ID_SWORDMEOW_CLASS_FEATURE_ATAVIST_VARIANT_DICE_PAINFUL">
+        <supports>Atavist Variant</supports>
+        <description>
+            <p>You have a d4 for your hit dice (4 + CON mod hitpoints at 1st), instead of a d6. Your rend dice begin as a d4 and progress to 2d8, 3d8, and 4d8.</p>
+        </description>
+        <sheet>
+            <description>You have a d4 for your hit dice instead of a d6.</description>
+        </sheet>
+        <rules>
+            <stat name="rend die:size" value="8" />
+            <stat name="hp" value="-2" level="1" />
+            <stat name="hp" value="-1" level="2" />
+            <stat name="hp" value="-1" level="3" />
+            <stat name="hp" value="-1" level="4" />
+            <stat name="hp" value="-1" level="5" />
+            <stat name="hp" value="-1" level="6" />
+            <stat name="hp" value="-1" level="7" />
+            <stat name="hp" value="-1" level="8" />
+            <stat name="hp" value="-1" level="9" />
+            <stat name="hp" value="-1" level="10" />
+            <stat name="hp" value="-1" level="11" />
+            <stat name="hp" value="-1" level="12" />
+            <stat name="hp" value="-1" level="13" />
+            <stat name="hp" value="-1" level="14" />
+            <stat name="hp" value="-1" level="15" />
+            <stat name="hp" value="-1" level="16" />
+            <stat name="hp" value="-1" level="17" />
+            <stat name="hp" value="-1" level="18" />
+            <stat name="hp" value="-1" level="19" />
+            <stat name="hp" value="-1" level="20" />
+        </rules>
+    </element>
+    
+    <element name="Rend Ichor" type="Class Feature" source="SwordMeow Atavist" id="ID_SWORDMEOW_CLASS_FEATURE_ATAVIST_REND_ICHOR">
+        <description>
+            <p>You can tap into your raw health to deliver death. You have a rend die which powers certain class features, and is a d6. When you rend, you roll this die and lose hitpoints equal to the result, which can’t be reduced in any way. You can’t rend more than once for a feature unless the effect says so.</p>
+            <p class="indent">When a feature says that you can rend to a roll, it means that you can rend yourself and add the result of the rend die to the roll. You can rend yourself to any damage roll for an attack with a melee weapon as a part of the Attack action, for a spell attack, for a reaction, or for a bonus action. You can rend any amount of times per turn.</p>
+            <p class="indent">At 7th level, you can rend to Strength, Dexterity, and Constitution saving throws, and you can roll 2d6 for your rend dice. At 14th level, you can roll 3d6, and 4d6 at 20th.</p>
+        </description>
+        <sheet>
+            <description level="1">You have a rend die which powers certain class features, and is a d{{rend die:size}}. When you rend, you roll this die and lose hitpoints equal to the result, which can’t be reduced in any way. You can’t rend more than once for a feature unless the effect says so.
+            When a feature says that you can rend to a roll, it means that you can rend yourself and add the result of the rend die to the roll. You can rend yourself to any damage roll for an attack with a melee weapon as a part of the Attack action, for a spell attack, for a reaction, or for a bonus action. You can rend any amount of times per turn.</description>
+            <description level="7">You have a rend die which powers certain class features, and is a 2d{{rend die:size}}. When you rend, you roll this die and lose hitpoints equal to the result, which can’t be reduced in any way. You can’t rend more than once for a feature unless the effect says so.
+            When a feature says that you can rend to a roll, it means that you can rend yourself and add the result of the rend die to the roll. You can rend yourself to Strength, Dexterity, and Constitution saving throws and any damage roll for an attack with a melee weapon as a part of the Attack action, for a spell attack, for a reaction, or for a bonus action. You can rend any amount of times per turn.</description>
+            <description level="14">You have a rend die which powers certain class features, and is a 3d{{rend die:size}}. When you rend, you roll this die and lose hitpoints equal to the result, which can’t be reduced in any way. You can’t rend more than once for a feature unless the effect says so.
+            When a feature says that you can rend to a roll, it means that you can rend yourself and add the result of the rend die to the roll. You can rend yourself to Strength, Dexterity, and Constitution saving throws and any damage roll for an attack with a melee weapon as a part of the Attack action, for a spell attack, for a reaction, or for a bonus action. You can rend any amount of times per turn.</description>
+            <description level="20">You have a rend die which powers certain class features, and is a 4d{{rend die:size}}. When you rend, you roll this die and lose hitpoints equal to the result, which can’t be reduced in any way. You can’t rend more than once for a feature unless the effect says so.
+            When a feature says that you can rend to a roll, it means that you can rend yourself and add the result of the rend die to the roll. You can rend yourself to Strength, Dexterity, and Constitution saving throws and any damage roll for an attack with a melee weapon as a part of the Attack action, for a spell attack, for a reaction, or for a bonus action. You can rend any amount of times per turn.</description>
+        </sheet>
+    </element>
+    
+    <element name="Unstopping Heart" type="Class Feature" source="SwordMeow Atavist" id="ID_SWORDMEOW_CLASS_FEATURE_ATAVIST_UNSTOPPING_HEART">
+        <description>
+            <p>Once per turn, when rending yourself would reduce you to 0 hitpoints, you are instead reduced to 1. Additionally, you are proficient in death saving throws, and if the result of a death saving throw you make is 18 or higher, you regain 1 hitpoint.</p>
+        </description>
+        <sheet>
+            <description>Once per turn, when rending yourself would reduce you to 0 hitpoints, you are instead reduced to 1. Additionally, you are proficient in death saving throws, and if the result of a death saving throw you make is 18 or higher, you regain 1 hitpoint.</description>
+        </sheet>
+    </element>
+    
+    <element name="Spellcasting" type="Class Feature" source="SwordMeow Atavist" id="ID_SWORDMEOW_CLASS_FEATURE_ATAVIST_SPELLCASTING">
+        <description>
+            <p>By 2nd level, your physical essence—either through your family, the blessing of some divine (or unholy) being, or even through sheer chance has produced a fortified and living ichor within you, wieldable for magical prowess. See chapter 10 for the general rules of spellcasting and the end of this document for the atavist spell list.</p>
+            <h5>Preparing and Casting Spells</h5>
+            <p>The Atavist table shows how many spell slots you have to cast your spells. To cast one of your atavist spells of 1st level or higher, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.</p>
+            <p class="indent">You prepare the list of atavist spells that are available for you to cast, choosing from the atavist spell list. When you do so, choose a number of atavist spells equal to your Constitution modifier + half your atavist level, rounded down (minimum of one spell). The spells must be of a level for which you have spell slots.</p>
+            <p class="indent">For example, if you are a 5th level atavist, you have four 1st-level and two 2nd-level spell slots. With a Constitution of 14, your list of prepared spells can include four spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell inflict wounds, you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn’t remove it from your list of prepared spells.</p>
+            <p class="indent">You can change your list of prepared spells when you finish a long rest. Preparing a new list of atavist spells requires time spent attuning to your vitality: at least 1 minute per spell level for each spell on your list.</p>
+            <h5>Spellcasting Ability</h5>
+            <p>Constitution is your spellcasting ability for your atavist spells, since the power of your magic relies on your own blood. You use your Constitution whenever a spell refers to your spellcasting ability. In addition, you use your Constitution modifier when setting the saving throw DC for an atavist spell you cast and when making an attack roll with one.</p>
+            <center>
+                <p><strong>Spell save DC</strong> = 8 + your proficiency bonus + your Constitution modifier</p>
+                <p><strong>Spell attack modifier</strong> = your proficiency bonus + your Constitution modifier</p>
+            </center>
+            <h5>Ritual Casting</h5>
+            <p>You can cast an atavist spell as a ritual if that spell has the ritual tag and you have the spell prepared.</p>
+            <h5>Self Focus</h5>
+            <p>When you cast spells that require a material component, you ignore that component unless it has a value, such as the diamond dust worth 100 gp for the greater restoration spell, in which case the components are required.</p>
+        </description>
+        <sheet display="false" />
+        <spellcasting name="Atavist" ability="Constitution" prepare="true">
+			<list known="true">Atavist</list>
+		</spellcasting>
+		<rules>
+			<grant type="Grants" id="ID_INTERNAL_GRANT_MULTICLASS_SPELLCASTING_SLOTS_HALF" requirements="ID_INTERNAL_GRANT_MULTICLASS"/>
+			<stat name="atavist:spellcasting:slots:1" value="2" level="2" />
+			<stat name="atavist:spellcasting:slots:1" value="1" level="3" />
+			<stat name="atavist:spellcasting:slots:1" value="1" level="5" />
+			<stat name="atavist:spellcasting:slots:2" value="2" level="5" />
+			<stat name="atavist:spellcasting:slots:2" value="1" level="7" />
+			<stat name="atavist:spellcasting:slots:3" value="2" level="9" />
+			<stat name="atavist:spellcasting:slots:3" value="1" level="11" />
+			<stat name="atavist:spellcasting:slots:4" value="1" level="13" />
+			<stat name="atavist:spellcasting:slots:4" value="1" level="15" />
+			<stat name="atavist:spellcasting:slots:4" value="1" level="17" />
+			<stat name="atavist:spellcasting:slots:5" value="1" level="17" />
+			<stat name="atavist:spellcasting:slots:5" value="1" level="19" />
+			<stat name="atavist:spellcasting:prepare" value="constitution:modifier" />
+			<stat name="atavist:spellcasting:prepare" value="level:atavist:half" />
+		</rules>
+    </element>
+    
+    <element name="Hardened Viscera" type="Class Feature" source="SwordMeow Atavist" id="ID_SWORDMEOW_CLASS_FEATURE_ATAVIST_HARDENED_VISCERA">
+        <description>
+            <p>At 2nd level, your body takes on physical traits and aspects of the toughest people and most resolute populations. You gain the following benefits:</p>
+            <ul>
+                <li>While you aren’t wearing heavy armor, you can reduce any damage you take by 2.</li>
+                <li>Your hit point maximum can’t be reduced.</li>
+            </ul>
+        </description>
+        <sheet>
+            <description level="2">While you aren’t wearing heavy armor, you can reduce any damage you take by 2. Your hit point maximum can’t be reduced.</description>
+            <description level="7">While you aren’t wearing heavy armor, you can reduce any damage you take by 4. Your hit point maximum can’t be reduced.</description>
+            <description level="15">While you aren’t wearing heavy armor, you can reduce any damage you take by 6. Your hit point maximum can’t be reduced.</description>
+        </sheet>
+    </element>
+    
+    <element name="Atavistic Aspect" type="Class Feature" source="SwordMeow Atavist" id="ID_SWORDMEOW_CLASS_FEATURE_ATAVIST_ATAVISTIC_ASPECT">
+        <description>
+            <p>Choose an aspect at 3rd level, which describes and emulates your bodily magical power. They are detailed at the end of the class description. Your choice grants you features when you choose it at 3rd level and again at 6th, 10th, and 18th levels.</p>
+            <h5>Aspect Spells</h5>
+            <p>Each aspect has a list of associated spells. You gain access to these spells when you can cast a spell of its level, as is on the table. Once you gain access to an aspect spell, you always have it prepared. Aspect spells don’t count against the number of spells you can prepare each day.</p>
+            <p class="indent">If you gain an aspect spell that doesn’t appear on the atavist spell list, the spell is nonetheless an atavist spell for you.</p>
+        </description>
+        <sheet display="false" />
+        <rules>
+            <select type="Archetype" name="Atavistic Aspect" supports="Atavistic Aspect" />
+        </rules>
+    </element>
+    
+    <element name="Ability Score Improvement" type="Class Feature" source="SwordMeow Atavist" id="ID_SWORDMEOW_CLASS_FEATURE_ATAVIST_ASI">
+        <compendium display="false" />
+		<description>
+			<p>When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.</p>
+		</description>
+		<sheet display="false" />
+		<rules>
+			<select type="Class Feature" name="Improvement Option (Atavist 4)" supports="Improvement Option,Atavist,4" level="4" />
+			<select type="Class Feature" name="Improvement Option (Atavist 8)" supports="Improvement Option,Atavist,8" level="8" />
+			<select type="Class Feature" name="Improvement Option (Atavist 12)" supports="Improvement Option,Atavist,12" level="12" />
+			<select type="Class Feature" name="Improvement Option (Atavist 16)" supports="Improvement Option,Atavist,16" level="16" />
+			<select type="Class Feature" name="Improvement Option (Atavist 19)" supports="Improvement Option,Atavist,19" level="19" />
+		</rules>
+    </element>
+    
+    <element name="Avenging Attack" type="Class Feature" source="SwordMeow Atavist" id="ID_SWORDMEOW_CLASS_FEATURE_ATAVIST_AVENGING_ATTACK">
+        <description>
+            <p>Starting at 5th level, when an attack hits you, you fail a saving throw, or you fail an ability check that requires an attack or an action, you can make a weapon attack against any creature within range as a reaction.</p>
+            <p class="indent">At 11th level, you can make two weapon attacks as part of this reaction.</p>
+        </description>
+        <sheet>
+            <description action="Reaction" level="5">When an attack hits you, you fail a saving throw, or you fail an ability check that requires an attack or an action, you can make a weapon attack against any creature within range as a reaction.</description>
+            <description action="Reaction" level="11">When an attack hits you, you fail a saving throw, or you fail an ability check that requires an attack or an action, you can make two weapon attacks against any creature within range as a reaction.</description>
+        </sheet>
+    </element>
+    
+    <element name="Humansbane" type="Class Feature" source="SwordMeow Atavist" id="ID_SWORDMEOW_CLASS_FEATURE_ATAVIST_HUMANSBANE">
+        <description>
+            <p>Starting at 6th level, you exude physical might, and can take apart lesser humanoids with single blows. Whenever you hit a humanoid with an attack and rend to its damage, the creature is instantly slain if the damage reduces their hitpoints to 10 or lower.</p>
+            <p class="indent">At 10th level, the humanoid is instantly slain if it has 15 or fewer hitpoints remaining. At 14th level, it increases to 20, and 25 at 18th level.</p>
+        </description>
+        <sheet>
+            <description level="6">Whenever you hit a humanoid with an attack and rend to its damage, the creature is instantly slain if the damage reduces their hitpoints to 10 or lower.</description>
+            <description level="10">Whenever you hit a humanoid with an attack and rend to its damage, the creature is instantly slain if the damage reduces their hitpoints to 15 or lower.</description>
+            <description level="14">Whenever you hit a humanoid with an attack and rend to its damage, the creature is instantly slain if the damage reduces their hitpoints to 20 or lower.</description>
+            <description level="18">Whenever you hit a humanoid with an attack and rend to its damage, the creature is instantly slain if the damage reduces their hitpoints to 25 or lower.</description>
+        </sheet>
+    </element>
+    
+    <element name="Greater Viscera" type="Class Feature" source="SwordMeow Atavist" id="ID_SWORDMEOW_CLASS_FEATURE_ATAVIST_GREATER_VISCERA">
+        <description>
+            <p>At 7th level, your body has taken on bedrock and efficient properties. You gain the following benefits:</p>
+            <ul>
+                <li>While you aren’t wearing heavy armor, you can reduce any damage you take by 4, and 6 at 15th level.</li>
+                <li>When you take damage from a creature other than you, your next rend doesn’t lose you hitpoints within the next minute..</li>
+            </ul>
+        </description>
+        <sheet>
+            <description>When you take damage from a creature other than you, your next rend doesn’t lose you hitpoints within the next minute.</description>
+        </sheet>
+    </element>
+    
+    <element name="Sanguine Sacraments" type="Class Feature" source="SwordMeow Atavist" id="ID_SWORDMEOW_CLASS_FEATURE_ATAVIST_SANGUINE_SACREMENTS">
+        <description>
+            <p>Starting at 14th level, you begin to unravel hallowed secrets of the interwoven magic and body called a sacrament. Choose one 5th-level spell from the atavist spell list as this sacrament.</p>
+            <p class="indent">You can cast this sacrament spell or an aspect spell of the same spell level once without expending a spell slot. You must finish a long rest before you can do so again.</p>
+            <p class="indent">At higher levels, you gain more atavist spells of your choice that can be cast in this way: one 6th-level spell at 17th level and one 7th-level spell at 20th level. You regain all uses of your Sanguine Sacraments when you finish a long rest.</p>
+        </description>
+        <sheet>
+            <description usage="1/Long Rest" level="14">You can cast your sacrament spell or an aspect spell of the same spell level once without expending a spell slot. You must finish a long rest before you can do so again.</description>
+            <description usage="1/Long Rest" level="17">You can cast each of your sacrament spells or an aspect spell of the same spell level once without expending a spell slot. You must finish a long rest before you can do so again.</description>
+        </sheet>
+        <rules>
+            <select type="Spell" name="Sanguine Sacrament (14)" supports="Atavist,5" level="14" />
+            <select type="Spell" name="Sanguine Sacrament (17)" supports="Atavist,6" level="17" />
+            <select type="Spell" name="Sanguine Sacrament (20)" supports="Atavist,7" level="20" />
+        </rules>
+    </element>
+    
+    <element name="Nigh Immortality" type="Class Feature" source="SwordMeow Atavist" id="ID_SWORDMEOW_CLASS_FEATURE_ATAVIST_NIGH_IMMORTALITY">
+        <description>
+            <p>At 20th level, you are all but impossible to kill. Your body doesn’t age, and if you die and at least one part of your body exists—such as a fingernail or an eye—your body can regrow from that part over the course of 24 hours. At the end of that time, you return to life with 1 hitpoint. If you were killed due to the disintegrate spell or a similar effect, your body has no healthy parts remaining to restore from. If your body has been burned completely through or otherwise ruined with powerful spells and abilities that affect an area (such as a dragon’s breath weapon or cone of cold), you can still regrow from internal body parts as long as the damage taken doesn’t exceed half your hitpoint maximum. Finally, if you are dead or not yet fully regrown, any magic attempting to raise your body as an undead succeeds, but you instantly gain control.</p>
+        </description>
+        <sheet>
+            <description>Your body doesn’t age, and if you die and at least one part of your body exists, your body can regrow from that part over the course of 24 hours. At the end of that time, you return to life with 1 hitpoint. If you were killed due to the disintegrate spell or a similar effect, your body has no healthy parts remaining to restore from. If your body has been burned completely through or otherwise ruined with powerful spells and abilities that affect an area, you can still regrow as long as the damage taken doesn’t exceed half your hitpoint maximum. Finally, if you are dead or not yet fully regrown, any magic attempting to raise your body as an undead succeeds, but you instantly gain control.</description>
+        </sheet>
+    </element>
+
+    <!--SPELLS-->
+
+    <!--LEVEL 1-->
+    
+    <append id="ID_XGTE_SPELL_CAUSE_FEAR">
+		<supports>Atavist</supports>
+	</append>
+    <append id="ID_PHB_SPELL_DETECT_MAGIC">
+		<supports>Atavist</supports>
+	</append>
+    <append id="ID_PHB_SPELL_DETECT_POISON_AND_DISEASE">
+		<supports>Atavist</supports>
+	</append>
+    <append id="ID_PHB_SPELL_EXPEDITIOUS_RETREAT">
+		<supports>Atavist</supports>
+	</append>
+    <append id="ID_PHB_SPELL_FALSE_LIFE">
+		<supports>Atavist</supports>
+	</append>
+    <append id="ID_PHB_SPELL_INFLICT_WOUNDS">
+		<supports>Atavist</supports>
+	</append>
+    <append id="ID_PHB_SPELL_JUMP">
+		<supports>Atavist</supports>
+	</append>
+    <append id="ID_PHB_SPELL_LONGSTRIDER">
+		<supports>Atavist</supports>
+	</append>
+    <append id="ID_PHB_SPELL_RAY_OF_SICKNESS">
+		<supports>Atavist</supports>
+	</append>
+
+    <!--LEVEL 2-->
+    
+    <append id="ID_PHB_SPELL_ALTER_SELF">
+		<supports>Atavist</supports>
+	</append>
+    <append id="ID_PHB_SPELL_BLINDNESS_DEAFNESS">
+		<supports>Atavist</supports>
+	</append>
+    <append id="ID_PHB_SPELL_DARKVISION">
+		<supports>Atavist</supports>
+	</append>
+    <append id="ID_PHB_SPELL_ENLARGE_REDUCE">
+		<supports>Atavist</supports>
+	</append>
+    <append id="ID_PHB_SPELL_HOLD_PERSON">
+		<supports>Atavist</supports>
+	</append>
+    <append id="ID_PHB_SPELL_LESSER_RESTORATION">
+		<supports>Atavist</supports>
+	</append>
+    <append id="ID_PHB_SPELL_LOCATE_ANIMALS_OR_PLANTS">
+		<supports>Atavist</supports>
+	</append>
+    <append id="ID_PHB_SPELL_PROTECTION_FROM_POISON">
+		<supports>Atavist</supports>
+	</append>
+    <append id="ID_PHB_SPELL_SPIDER_CLIMB">
+		<supports>Atavist</supports>
+	</append>
+    <append id="ID_PHB_SPELL_WARDING_BOND">
+		<supports>Atavist</supports>
+	</append>
+
+    <!--LEVEL 3-->
+    
+    <append id="ID_PHB_SPELL_PROTECTION_FROM_ENERGY">
+		<supports>Atavist</supports>
+	</append>
+    <append id="ID_XGTE_SPELL_LIFE_TRANSFERENCE">
+		<supports>Atavist</supports>
+	</append>
+    <append id="ID_PHB_SPELL_WATER_BREATHING">
+		<supports>Atavist</supports>
+	</append>
+    <append id="ID_PHB_SPELL_WATER_WALK">
+		<supports>Atavist</supports>
+	</append>
+
+    <!--LEVEL 4-->
+    
+    <append id="ID_PHB_SPELL_BLIGHT">
+		<supports>Atavist</supports>
+	</append>
+    <append id="ID_PHB_SPELL_DEATH_WARD">
+		<supports>Atavist</supports>
+	</append>
+    <append id="ID_PHB_SPELL_FREEDOM_OF_MOVEMENT">
+		<supports>Atavist</supports>
+	</append>
+    <append id="ID_PHB_SPELL_LOCATE_CREATURE">
+		<supports>Atavist</supports>
+	</append>
+    <append id="ID_PHB_SPELL_STONESKIN">
+		<supports>Atavist</supports>
+	</append>
+
+    <!--LEVEL 5-->
+    
+    <append id="ID_PHB_SPELL_CONTAGION">
+		<supports>Atavist</supports>
+	</append>
+    <append id="ID_XGTE_SPELL_ENERVATION">
+		<supports>Atavist</supports>
+	</append>
+    <append id="ID_PHB_SPELL_GREATER_RESTORATION">
+		<supports>Atavist</supports>
+	</append>
+    <append id="ID_PHB_SPELL_REINCARNATE">
+		<supports>Atavist</supports>
+	</append>
+    <append id="ID_XGTE_SPELL_STEEL_WIND_STRIKE">
+		<supports>Atavist</supports>
+	</append>
+
+    <!--LEVEL 6-->
+    
+    <append id="ID_XGTE_SPELL_BONES_OF_THE_EARTH">
+		<supports>Atavist</supports>
+	</append>
+    <append id="ID_PHB_SPELL_FLESH_TO_STONE">
+		<supports>Atavist</supports>
+	</append>
+    <append id="ID_PHB_SPELL_HARM">
+		<supports>Atavist</supports>
+	</append>
+    <append id="ID_PHB_SPELL_WIND_WALK">
+		<supports>Atavist</supports>
+	</append>
+
+    <!--LEVEL 7-->
+    
+    <append id="ID_PHB_SPELL_REGENERATE">
+		<supports>Atavist</supports>
+	</append>
+    
+</elements>

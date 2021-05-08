@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+    
+    <element name="Heavenly Aspect" type="Archetype" source="SwordMeow Atavist" id="ID_SWORDMEOW_ARCHETYPE_ATAVIST_HEAVENLY">
+        <supports>Atavistic Aspect</supports>
+        <description>
+            <p>The ancient powers of Atavism are not immune to the influences of the Outer Planes, and occasionally, whether by chance or design, the two combine in a unique way. Heavenly atavists are an example of this, persons touched by the goodly nature of one of the Upper Planes. Infused with celestial power, these self-sure individuals possess the unique ability to tap into their health to aid others, guiding the strikes of their allies and leading them to glorious victory.</p>
+            <div element="ID_SWORDMEOW_ARCHETYPE_FEATURE_ATAVIST_HEAVENLY_SPELLS" />
+            <div element="ID_SWORDMEOW_ARCHETYPE_FEATURE_ATAVIST_HEAVENLY_PRESENCE" />
+            <div element="ID_SWORDMEOW_ARCHETYPE_FEATURE_ATAVIST_HEAVENLY_ANGELIC_GUIDANCE" />
+            <div element="ID_SWORDMEOW_ARCHETYPE_FEATURE_ATAVIST_HEAVENLY_SHARED_BURDEN" />
+            <div element="ID_SWORDMEOW_ARCHETYPE_FEATURE_ATAVIST_HEAVENLY_CELESTIAL_ASCENDANCE" />
+            <div element="ID_SWORDMEOW_ARCHETYPE_FEATURE_ATAVIST_HEAVENLY_SOUND_THE_HORNS_OF_MERITON" />
+        </description>
+        <sheet display="false">
+            <description>Infused with celestial power, these self-sure individuals possess the unique ability to tap into their health to aid others, guiding the strikes of their allies and leading them to glorious victory.</description>
+        </sheet>
+        <rules>
+            <grant type="Archetype Feature" id="ID_SWORDMEOW_ARCHETYPE_FEATURE_ATAVIST_HEAVENLY_SPELLS" level="3" />
+            <grant type="Archetype Feature" id="ID_SWORDMEOW_ARCHETYPE_FEATURE_ATAVIST_HEAVENLY_PRESENCE" level="3" />
+            <grant type="Archetype Feature" id="ID_SWORDMEOW_ARCHETYPE_FEATURE_ATAVIST_HEAVENLY_ANGELIC_GUIDANCE" level="3" />
+            <grant type="Archetype Feature" id="ID_SWORDMEOW_ARCHETYPE_FEATURE_ATAVIST_HEAVENLY_SHARED_BURDEN" level="6" />
+            <grant type="Archetype Feature" id="ID_SWORDMEOW_ARCHETYPE_FEATURE_ATAVIST_HEAVENLY_CELESTIAL_ASCENDANCE" level="10" />
+            <grant type="Archetype Feature" id="ID_SWORDMEOW_ARCHETYPE_FEATURE_ATAVIST_HEAVENLY_SOUND_THE_HORNS_OF_MERITON" level="18" />
+        </rules>
+    </element>
+
+    <element name="Heavenly Aspect Spells" type="Archetype Feature" source="SwordMeow Atavist" id="ID_SWORDMEOW_ARCHETYPE_FEATURE_ATAVIST_HEAVENLY_SPELLS">
+        <description>
+            <p>You learn the following spells. They are always prepared for you.</p>
+            <h5>HEAVENLY ASPECT SPELLS</h5>
+            <table>
+                <thead>
+                    <tr><td>Spell Levels</td><td>Spells</td></tr>
+                </thead>
+                <tr><td>1st</td><td>bless</td></tr>
+                <tr><td>2nd</td><td>lesser restoration</td></tr>
+                <tr><td>3rd</td><td>revivify</td></tr>
+                <tr><td>4th</td><td>guardian of faith</td></tr>
+                <tr><td>5th</td><td>commune</td></tr>
+                <tr><td>6th</td><td>blade barrier</td></tr>
+            </table>
+        </description>
+        <sheet display="false" />
+        <rules>
+            <grant type="Spell" id="ID_PHB_SPELL_BLESS" spellcasting="Atavist" prepared="true" />
+            <grant type="Spell" id="ID_PHB_SPELL_LESSER_RESTORATION" spellcasting="Atavist" prepared="true" />
+            <grant type="Spell" id="ID_PHB_SPELL_REVIVIFY" spellcasting="Atavist" prepared="true" />
+            <grant type="Spell" id="ID_PHB_SPELL_GUARDIAN_OF_FAITH" spellcasting="Atavist" prepared="true" />
+            <grant type="Spell" id="ID_PHB_SPELL_COMMUNE" spellcasting="Atavist" prepared="true" />
+            <grant type="Spell" id="ID_PHB_SPELL_BLADE_BARRIER" spellcasting="Atavist" prepared="true" />
+        </rules>
+    </element>
+
+    <element name="Heavenly Presence" type="Archetype Feature" source="SwordMeow Atavist" id="ID_SWORDMEOW_ARCHETYPE_FEATURE_ATAVIST_HEAVENLY_PRESENCE">
+        <description>
+            <p>Beginning at 3rd level when you choose this aspect, you can use your blood to lend your words a celestial cadence and resist planar influence. You can rend to Charisma checks and saving throws.</p>
+        </description>
+        <sheet>
+            <description>You can rend to Charisma checks and saving throws.</description>
+        </sheet>
+    </element>
+
+    <element name="Angelic Guidance" type="Archetype Feature" source="SwordMeow Atavist" id="ID_SWORDMEOW_ARCHETYPE_FEATURE_ATAVIST_HEAVENLY_ANGELIC_GUIDANCE">
+        <description>
+            <p>Also at 3rd level, you can draw upon your lifeforce to enhance your allies, infusing them with holy strength and providence. Once per turn when an ally within 30 feet that you can see makes a damage roll, an ability check, or a Charisma saving throw, you can rend yourself to that roll. You can choose to use this feature after the ally makes their roll, but before the DM determines if the roll was a success or a failure, or before the ally deals their damage.</p>
+        </description>
+        <sheet>
+            <description>Once per turn when an ally within 30 feet that you can see makes a damage roll, an ability check, or a Charisma saving throw, you can rend yourself to that roll. You can choose to use this feature after the ally makes their roll, but before the DM determines if the roll was a success or a failure, or before the ally deals their damage.</description>
+        </sheet>
+    </element>
+
+    <element name="Shared Burden" type="Archetype Feature" source="SwordMeow Atavist" id="ID_SWORDMEOW_ARCHETYPE_FEATURE_ATAVIST_HEAVENLY_SHARED_BURDEN">
+        <description>
+            <p>At 6th level, your allies can shoulder the stress of rending, lessening the toll it takes on your body, and you can ward them from harm in turn - at a cost. Whenever you use your Angelic Guidance feature, the ally you rend for can choose to take the rend damage instead of you. Additionally, whenever an ally within 30 feet that you can see takes damage, you can use your reaction and rend to reduce the damage by the amount rolled.</p>
+        </description>
+        <sheet>
+            <description action="Reaction">Whenever you use your Angelic Guidance feature, the ally you rend for can choose to take the rend damage instead of you. Additionally, whenever an ally within 30 feet that you can see takes damage, you can use your reaction and rend to reduce the damage by the amount rolled.</description>
+        </sheet>
+    </element>
+
+    <element name="Celestial Ascendance" type="Archetype Feature" source="SwordMeow Atavist" id="ID_SWORDMEOW_ARCHETYPE_FEATURE_ATAVIST_HEAVENLY_CELESTIAL_ASCENDANCE">
+        <description>
+            <p>At 10th level, you take on some aspects of an Angel, the divine denizens of the Upper Planes. Once per round, you can deal an extra 1d8 radiant damage when you hit a creature with a melee or thrown weapon, and you can cast detect evil and good at will, without expending a spell slot.</p>
+        </description>
+        <sheet>
+            <description>Once per round, you can deal an extra 1d8 radiant damage when you hit a creature with a melee or thrown weapon, and you can cast detect evil and good at will, without expending a spell slot.</description>
+        </sheet>
+        <rules>
+            <grant type="Spell" id="ID_PHB_SPELL_DETECT_EVIL_AND_GOOD" />
+        </rules>
+    </element>
+
+    <element name="Sound the Horns of Meriton" type="Archetype Feature" source="SwordMeow Atavist" id="ID_SWORDMEOW_ARCHETYPE_FEATURE_ATAVIST_HEAVENLY_SOUND_THE_HORNS_OF_MERITON">
+        <description>
+            <p>At 18th level, you can sacrifice tremendous vitality to sound a divine call to arms, summoning a celestial champion to your side. As an action, you can rend yourself by rolling a number of d6s equal to your level, causing a Justice Archon to appear in an unoccupied space within 10 feet of you. The Justice Archon has the same statistics as a Deva (MM 16), but lacks the Healing Touch action and wields a longsword. The Justice Archon is friendly to you and your companions and will fight for you, acting on your initiative and following your verbal commands. The Justice Archon remains for 10 minutes, or until you act in a manner that offends or displeases it, at which time it returns to the Upper Planes.</p>
+            <p class="indent">Once you’ve used this feature, you can’t use it again until you finish a long rest.</p>
+        </description>
+        <sheet>
+            <description action="Action" usage="1/Long Rest">As an action, you can rend yourself by rolling a number of d6s equal to your level, causing a Justice Archon to appear in an unoccupied space within 10 feet of you. The Justice Archon has the same statistics as a Deva (MM 16), but lacks the Healing Touch action and wields a longsword. The Justice Archon is friendly to you and your companions and will fight for you, acting on your initiative and following your verbal commands. The Justice Archon remains for 10 minutes, or until you act in a manner that offends or displeases it, at which time it returns to the Upper Planes.</description>
+        </sheet>
+    </element>
+    
+</elements>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+    
+    <element name="Cruorwrought Aspect" type="Archetype" source="SwordMeow Atavist" id="ID_SWORDMEOW_ARCHETYPE_ATAVIST_CRUORWROUGHT">
+        <supports>Atavistic Aspect</supports>
+        <description>
+            <p>Atavists use their bodies in ways far beyond the normal capacity of any other creatures. Certain atavists follow their blood, gaining physical command of it—shaping and wielding it inside and outside of their bodies, as well as in the bodies of others.</p>
+            <div element="ID_SWORDMEOW_ARCHETYPE_FEATURE_ATAVIST_CRUORWROUGHT_SPELLS" />
+            <div element="ID_SWORDMEOW_ARCHETYPE_FEATURE_ATAVIST_CRUORWROUGHT_WEAPON_OF_BLOOD" />
+            <div element="ID_SWORDMEOW_ARCHETYPE_FEATURE_ATAVIST_CRUORWROUGHT_CREATE_OR_DESTROY_BLOOD" />
+            <div element="ID_SWORDMEOW_ARCHETYPE_FEATURE_ATAVIST_CRUORWROUGHT_HEARTEATER" />
+            <div element="ID_SWORDMEOW_ARCHETYPE_FEATURE_ATAVIST_CRUORWROUGHT_REBUTTAL_OF_BODY" />
+            <div element="ID_SWORDMEOW_ARCHETYPE_FEATURE_ATAVIST_CRUORWROUGHT_CALL_GODSLAYER" />
+        </description>
+        <sheet display="false">
+            <description>Certain atavists follow their blood, gaining physical command of it—shaping and wielding it inside and outside of their bodies, as well as in the bodies of others.</description>
+        </sheet>
+        <rules>
+            <grant type="Archetype Feature" id="ID_SWORDMEOW_ARCHETYPE_FEATURE_ATAVIST_CRUORWROUGHT_SPELLS" level="3" />
+            <grant type="Archetype Feature" id="ID_SWORDMEOW_ARCHETYPE_FEATURE_ATAVIST_CRUORWROUGHT_WEAPON_OF_BLOOD" level="3" />
+            <grant type="Archetype Feature" id="ID_SWORDMEOW_ARCHETYPE_FEATURE_ATAVIST_CRUORWROUGHT_CREATE_OR_DESTROY_BLOOD" level="3" />
+            <grant type="Archetype Feature" id="ID_SWORDMEOW_ARCHETYPE_FEATURE_ATAVIST_CRUORWROUGHT_HEARTEATER" level="6" />
+            <grant type="Archetype Feature" id="ID_SWORDMEOW_ARCHETYPE_FEATURE_ATAVIST_CRUORWROUGHT_REBUTTAL_OF_BODY" level="10" />
+            <grant type="Archetype Feature" id="ID_SWORDMEOW_ARCHETYPE_FEATURE_ATAVIST_CRUORWROUGHT_CALL_GODSLAYER" level="18" />
+        </rules>
+    </element>
+
+    <element name="Cruorwrought Aspect Spells" type="Archetype Feature" source="SwordMeow Atavist" id="ID_SWORDMEOW_ARCHETYPE_FEATURE_ATAVIST_CRUORWROUGHT_SPELLS">
+        <description>
+            <p>You learn the following spells. They are always prepared for you.</p>
+            <h5>CRUORWROUGHT ASPECT SPELLS</h5>
+            <table>
+                <thead>
+                    <tr><td>Spell Levels</td><td>Spells</td></tr>
+                </thead>
+                <tr><td>1st</td><td>heart sunder</td></tr>
+                <tr><td>2nd</td><td>hold person</td></tr>
+                <tr><td>3rd</td><td>life transferance</td></tr>
+                <tr><td>4th</td><td>polymorph</td></tr>
+                <tr><td>5th</td><td>dominate person</td></tr>
+                <tr><td>6th</td><td>haemorrhaging rupture</td></tr>
+            </table>
+        </description>
+        <sheet display="false" />
+        <rules>
+            <grant type="Spell" id="ID_SWORDMEOW_ATAVIST_SPELL_HEART_SUNDER" spellcasting="Atavist" prepared="true" />
+            <grant type="Spell" id="ID_PHB_SPELL_HOLD_PERSON" spellcasting="Atavist" prepared="true" />
+            <grant type="Spell" id="ID_XGTE_SPELL_LIFE_TRANSFERENCE" spellcasting="Atavist" prepared="true" />
+            <grant type="Spell" id="ID_PHB_SPELL_POLYMORPH" spellcasting="Atavist" prepared="true" />
+            <grant type="Spell" id="ID_PHB_SPELL_DOMINATE_PERSON" spellcasting="Atavist" prepared="true" />
+            <grant type="Spell" id="ID_SWORDMEOW_ATAVIST_SPELL_HAEMORRHAGING_RUPTURE" spellcasting="Atavist" prepared="true" />
+        </rules>
+    </element>
+
+    <element name="Weapon of Blood" type="Archetype Feature" source="SwordMeow Atavist" id="ID_SWORDMEOW_ARCHETYPE_FEATURE_ATAVIST_CRUORWROUGHT_WEAPON_OF_BLOOD">
+        <description>
+            <p>Beginning at 3rd level when you choose this archetype, you can create a weapon of blood to wield. When you take the Attack action, you can rend to create a weapon of blood in either one of your hands. You can create a melee weapon you are proficient with or coat a weapon you are currently holding in blood. On a hit, the target loses hitpoints equal to the weapon’s damage dice + your rend dice + your Strength or Dexterity modifier.</p>
+            <p class="indent">The blood of the weapon falls into a pool after two hits with the weapon or if it leaves your grasp.</p>
+        </description>
+        <sheet>
+            <description>When you take the Attack action, you can rend to create a weapon of blood in either one of your hands. You can create a melee weapon you are proficient with or coat a weapon you are currently holding in blood. On a hit, the target loses hitpoints equal to the weapon’s damage dice + your rend dice + your Strength or Dexterity modifier. The blood of the weapon falls into a pool after two hits with the weapon or if it leaves your grasp.</description>
+        </sheet>
+    </element>
+
+    <element name="Create or Destroy Blood" type="Archetype Feature" source="SwordMeow Atavist" id="ID_SWORDMEOW_ARCHETYPE_FEATURE_ATAVIST_CRUORWROUGHT_CREATE_OR_DESTROY_BLOOD">
+        <description>
+            <p>Also at 3rd level, you can either create or destroy blood as a bonus action. To create, you make up to 10 gallons of blood within 30 feet of you in a space you can see. Alternatively, the blood falls as rain in a 30-foot sphere within range. To destroy, you destroy up to 10 gallons of blood within 30 feet of you in a space you can see. Once you destroy blood, you can only create blood once before needing to destroy it again. Additionally, you can drain one Small or larger corpse of blood within range. If you drain a corpse of blood, you can create a weapon of blood without losing any hitpoints yourself the first time you do so within the next minute.</p>
+        </description>
+        <sheet>
+            <description action="Action">You can either create or destroy blood as a bonus action. To create, you make up to 10 gallons of blood within 30 feet of you in a space you can see. Alternatively, the blood falls as rain in a 30-foot sphere within range. To destroy, you destroy up to 10 gallons of blood within 30 feet of you in a space you can see. Once you destroy blood, you can only create blood once before needing to destroy it again. Additionally, you can drain one Small or larger corpse of blood within range. If you drain a corpse of blood, you can create a weapon of blood without losing any hitpoints yourself the first time you do so within the next minute.</description>
+        </sheet>
+    </element>
+
+    <element name="Hearteater" type="Archetype Feature" source="SwordMeow Atavist" id="ID_SWORDMEOW_ARCHETYPE_FEATURE_ATAVIST_CRUORWROUGHT_HEARTEATER">
+        <description>
+            <p>Starting at 6th level, when you kill a creature with a weapon of blood, you can roll one of its Hit Dice + its Constitution modifier, gaining hitpoints equal to the result.</p>
+            <p class="indent">You can use this feature twice, regaining all expended uses when you finish a short or long rest.</p>
+        </description>
+        <sheet>
+            <description usage="2/Short Rest">When you kill a creature with a weapon of blood, you can roll one of its Hit Dice + its Constitution modifier, gaining hitpoints equal to the result.</description>
+        </sheet>
+    </element>
+
+    <element name="Rebuttal of Body" type="Archetype Feature" source="SwordMeow Atavist" id="ID_SWORDMEOW_ARCHETYPE_FEATURE_ATAVIST_CRUORWROUGHT_REBUTTAL_OF_BODY">
+        <description>
+            <p>At 10th level, you can refute many attacks on your body. When you are subjected to an effect that allows you to make a Constitution saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.</p>
+        </description>
+        <sheet>
+            <description>When you are subjected to an effect that allows you to make a Constitution saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.</description>
+        </sheet>
+    </element>
+
+    <element name="Call Godslayer" type="Archetype Feature" source="SwordMeow Atavist" id="ID_SWORDMEOW_ARCHETYPE_FEATURE_ATAVIST_CRUORWROUGHT_CALL_GODSLAYER">
+        <description>
+            <p>Beginning at 18th level, you are capable of creating a blood weapon that rivals the most powerful weapons in the multiverse. By creating a weapon of blood, you can create an artifact of blood instead. You rend for 20d6, instead of the normal amount. It looks how you wish. After three hits with the artifact of blood, it falls apart.</p>
+            <p class="indent">Once you use this feature, you can’t use it again until you finish a long rest.</p>
+        </description>
+        <sheet>
+            <description usage="1/Long Rest">By creating a weapon of blood, you can create an artifact of blood instead. You rend for 20d6, instead of the normal amount. It looks how you wish. After three hits with the artifact of blood, it falls apart.</description>
+        </sheet>
+    </element>
+    
+</elements>
