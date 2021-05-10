@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <elements>
+    <info>
+        <name></name>
+        <update version="0.0.1">
+            <file name="class-atavist.xml" url="https://raw.githubusercontent.com/Zenoverlordian/swordmeow-atavist/main/class-atavist.xml" />
+        </update>
+    </info>
     
     <element name="Atavist" type="Class" source="SwordMeow Atavist" id="ID_SWORDMEOW_CLASS_ATAVIST">
         <description>

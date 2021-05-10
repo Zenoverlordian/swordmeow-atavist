@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <elements>
+    <info>
+        <name></name>
+        <update version="0.0.1">
+            <file name="source.xml" url="https://raw.githubusercontent.com/Zenoverlordian/swordmeow-atavist/main/source.xml" />
+        </update>
+    </info>
     
     <element name="SwordMeow Atavist" type="Source" source="SwordMeow Atavist" id="ID_SWORDMEOW_ATAVIST_SOURCE_ATAVIST">
         <description>

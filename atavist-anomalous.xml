@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <elements>
+    <info>
+        <name></name>
+        <update version="0.0.1">
+            <file name="atavist-anomalous.xml" url="https://raw.githubusercontent.com/Zenoverlordian/swordmeow-atavist/main/atavist-anomalous.xml" />
+        </update>
+    </info>
     
     <element name="Anomalous Aspect" type="Archetype" source="SwordMeow Atavist" id="ID_SWORDMEOW_ARCHETYPE_ATAVIST_ANOMALOUS">
         <supports>Atavistic Aspect</supports>
