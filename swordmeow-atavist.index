@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<update version="0.0.1">
+			<file name="swordmeow-atavist.index" url="https://raw.githubusercontent.com/Zenoverlordian/swordmeow-atavist/main/swordmeow-atavist.index" />
+		</update>
+	</info>
+	<files>
+    <file name="atavist-heavenly.xml" url="https://raw.githubusercontent.com/Zenoverlordian/swordmeow-atavist/main/atavist-heavenly.xml" /> 
+    <file name="atavist-cruorwrought.xml" url="https://raw.githubusercontent.com/Zenoverlordian/swordmeow-atavist/main/atavist-cruorwrought.xml" />
+    <file name="atavist-demonic.xml" url="https://raw.githubusercontent.com/Zenoverlordian/swordmeow-atavist/main/atavist-demonic.xml" />
+    <file name="atavist-bloodied.xml" url="https://raw.githubusercontent.com/Zenoverlordian/swordmeow-atavist/main/atavist-bloodied.xml" />
+    <file name="atavist-murderous.xml" url="https://raw.githubusercontent.com/Zenoverlordian/swordmeow-atavist/main/atavist-murderous.xml" />
+    <file name="class-atavist.xml" url="https://raw.githubusercontent.com/Zenoverlordian/swordmeow-atavist/main/class-atavist.xml" />
+    <file name="spells.xml" url="https://raw.githubusercontent.com/Zenoverlordian/swordmeow-atavist/main/spells.xml" />
+    <file name="source.xml" url="https://raw.githubusercontent.com/Zenoverlordian/swordmeow-atavist/main/source.xml" />
+    <file name="atavist-anomalous.xml" url="https://raw.githubusercontent.com/Zenoverlordian/swordmeow-atavist/main/atavist-anomalous.xml" />
+	</files>
+</index>
